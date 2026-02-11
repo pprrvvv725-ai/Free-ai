@@ -1,0 +1,11 @@
+torch
+torchvision
+diffusers
+transformers
+accelerate
+opencv-python
+mediapipe
+numpy
+Pillow
+imageio
+ffmpeg-python
